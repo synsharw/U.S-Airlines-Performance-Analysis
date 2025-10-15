@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/142f6062-88ac-4a9c-9f06-4858f2164cf6)
+
 U.S Airlines Performance Analysis
 
 Key Skills: Data Cleaning, EDA, SQL, Data
